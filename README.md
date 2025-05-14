@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Attack Tree.drawio.png" alt="Attack Tree for University Financial Portal" width="700"/>
+</p>
 # University Financial Portal Threat Model
 
 **Repository Name:** University-Financial-Portal-Threat-Modeling
